@@ -1,2 +1,2 @@
 # Config
-Config server properties files
+Config s a repository for showing DB properties files
